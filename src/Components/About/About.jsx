@@ -7,7 +7,7 @@ export default function About() {
               <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
                   <div className="md:5/12 lg:w-5/12">
                       <img
-                          src="https://tailus.io/sources/blocks/left-image/preview/images/startup.png"
+                          src="https://img.freepik.com/free-vector/bird-colorful-gradient-design-vector_343694-2506.jpg?ga=GA1.1.1047849679.1733736904&semt=ais_hybrid"
                           alt="image"
                       />
                   </div>

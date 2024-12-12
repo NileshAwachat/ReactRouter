@@ -9,8 +9,8 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
-                                className="mr-3 h-16"
+                                src="https://img.freepik.com/free-vector/bird-colorful-gradient-design-vector_343694-2506.jpg?ga=GA1.1.1047849679.1733736904&semt=ais_hybrid"
+                                className="mr-3 h-24"
                                 alt="Logo"
                             />
                         </Link>
@@ -36,7 +36,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <a
-                                        href="https://github.com/hiteshchoudhary"
+                                        href="https://github.com/NileshAwachat"
                                         className="hover:underline"
                                         target="_blank"
                                         rel="noreferrer"
@@ -45,9 +45,14 @@ export default function Footer() {
                                     </a>
                                 </li>
                                 <li>
-                                    <Link to="/" className="hover:underline">
+                                <a
+                                        href="https://discord.com/channels/@me"
+                                        className="hover:underline"
+                                        target="_blank"
+                                        rel="noreferrer"
+                                    >
                                         Discord
-                                    </Link>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
@@ -71,11 +76,7 @@ export default function Footer() {
                 <hr className="my-6 border-gray-200 sm:mx-auto lg:my-8" />
                 <div className="sm:flex sm:items-center sm:justify-between">
                     <span className="text-sm text-gray-500 sm:text-center">
-                        © 2023
-                        <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                            hiteshchoudhary
-                        </a>
-                        . All Rights Reserved.
+                        © 2024  NileshAwachat.All Rights Reserved.
                     </span>
                     <div className="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
                         <Link to="#" className="text-gray-500 hover:text-gray-900">
